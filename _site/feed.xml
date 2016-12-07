@@ -5,9 +5,40 @@
     <description>Astrodynamicist | Developer | Aspiring Astronaut</description>
     <link>localhost:4000//</link>
     <atom:link href="localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Nov 2016 16:20:30 -0500</pubDate>
-    <lastBuildDate>Sat, 12 Nov 2016 16:20:30 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2016 17:34:29 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Dec 2016 17:34:29 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Learning Optimal Control Policies for Upright Rocket Landings through Deep Reinforcement Learning</title>
+        <description>&lt;p&gt;While rocket landing problems are typically solved through conventional trajectory optimization techniques combined with heuristic control, recent developments in deep learning suggest that neural networks are able to approximate the Hamilton-Jacobi-Bellman equation and control spacecraft optimally in real-time with spatial generalization.&lt;/p&gt;
+
+&lt;div class=&quot;sl-block-content&quot; style=&quot;z-index: 11;&quot;&gt;
+&lt;iframe src=&quot;//slides.com/christopheriliffesprague/deck/embed&quot; width=&quot;800&quot; height=&quot;500&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 04:00:00 -0500</pubDate>
+        <link>localhost:4000//2016/Deep-Learning-for-Rocket-Landings/</link>
+        <guid isPermaLink="true">localhost:4000//2016/Deep-Learning-for-Rocket-Landings/</guid>
+        
+        <category>Astrodynamics</category>
+        
+        <category>Python</category>
+        
+        <category>NumPy</category>
+        
+        <category>Rockets</category>
+        
+        <category>Machine Learning</category>
+        
+        <category>Neural Networks</category>
+        
+        <category>Reinforcement Learning</category>
+        
+        
+        <category>Presentation</category>
+        
+      </item>
     
       <item>
         <title>Astrodynamics in Python - Interplanetary Environment</title>

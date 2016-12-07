@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>localhost:4000/2016/Deep-Learning-for-Rocket-Landings/</loc>
+      
+        <lastmod>2016-11-17T04:00:00-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>localhost:4000/2016/astrodynamics-in-python-interplanetary-environment/</loc>
       
         <lastmod>2016-07-26T05:00:00-04:00</lastmod>
@@ -36,7 +51,7 @@
     <url>
       <loc>localhost:4000/css/app.css</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +66,7 @@
     <url>
       <loc>localhost:4000/categories/</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +81,7 @@
     <url>
       <loc>localhost:4000/feed.xml</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,7 +96,7 @@
     <url>
       <loc>localhost:4000/</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,7 +111,7 @@
     <url>
       <loc>localhost:4000/js/main.js</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +128,7 @@
     <url>
       <loc>localhost:4000/tags/</loc>
       
-        <lastmod>2016-11-12T16:20:30-05:00</lastmod>
+        <lastmod>2016-12-07T17:34:29-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
