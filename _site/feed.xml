@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Iliffe Sprague</title>
-    <description>Astrodynamicist | Developer | Aspiring Astronaut</description>
+    <description>Software | Artificial Intelligence | Robotics</description>
     <link>localhost:4000//</link>
     <atom:link href="localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 May 2017 10:03:19 -0400</pubDate>
-    <lastBuildDate>Sun, 14 May 2017 10:03:19 -0400</lastBuildDate>
+    <pubDate>Sun, 14 May 2017 10:07:32 -0400</pubDate>
+    <lastBuildDate>Sun, 14 May 2017 10:07:32 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
